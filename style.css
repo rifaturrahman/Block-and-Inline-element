@@ -1,0 +1,18 @@
+.box1{
+  width:100px;
+  height:100px;
+  background-color:red;
+  margin:100px 50px 30px;
+}
+.box2{
+  width:100px;
+  height:100px;
+  background-color:green;
+  margin:50px 50px 30px;
+}
+.box3{
+  width:100px;
+  height:100px;
+  background-color: lightblue:100px
+  padding:50px;
+}
